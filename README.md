@@ -4,7 +4,7 @@ Language : Nodejs
 
 Server : Rabbit mq
 
-Created a program to send and receive from two clients. 
+Created a program to send and receive messages from two clients using rabbitmq. 
 
 *Client1 can send any number of texts to client2.
 
